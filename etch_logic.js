@@ -1,7 +1,7 @@
 let gameWindow = document.getElementById("gamewindow");
 let boardSize = document.querySelector(':root');
 
-let assignedBoardSize = 8;
+let assignedBoardSize = 12;
 
 let sizeText = document.createElement("p");
 sizeText.classList.add("gamewindow2text");
